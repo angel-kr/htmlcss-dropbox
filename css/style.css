@@ -1,0 +1,13 @@
+/**************** reset ********************/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/******* removing bullets from list *********/
+
+.list-style-none {
+    list-style: none;
+}
