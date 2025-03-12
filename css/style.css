@@ -1,4 +1,4 @@
-/**************** reset ********************/
+/**************** reset ***************** { */
 
 * {
     margin: 0px;
@@ -6,13 +6,25 @@
     box-sizing: border-box;
 }
 
-/******* removing bullets from list ***** { */
+/* } *****************************************/
+
+
+
+
+
+/******* removing bullets from lists ***** { */
 
 .list-style-none {
     list-style: none;
 }
 
 /* } *****************************************/
+
+
+
+
+
+/************** header styling *********** { */
 
 .d-flex {
     display: flex;
@@ -48,3 +60,12 @@
 header {
     background-color: white;
 }
+
+/* } *******************************************/
+
+
+
+
+
+/*********** styling inside tag "main" *********/
+
