@@ -160,6 +160,19 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4rem;
     font-weight: 600;
-    padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.start-free-trial {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.cancel-anytime {
+    margin-bottom: 60px;
+}
+
+.jumbo-section {
+    position: relative;
+    top: 70px;
 }
