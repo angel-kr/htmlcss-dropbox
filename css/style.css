@@ -125,3 +125,17 @@ header {
 
 /* Building document structural support */
 
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-30 {
+    border-width: 10px;
+    border-color: red;
+}
