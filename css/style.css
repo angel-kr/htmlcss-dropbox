@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+img {
+    max-width: 100%;
+}
+
 /* } *****************************************/
 
 
@@ -125,8 +129,9 @@ header {
 
 /* Building document structural support */
 
-img {
-    max-width: 100%;
+
+.row {
+    flex-wrap: wrap;
 }
 
 .container {
@@ -135,7 +140,14 @@ img {
     margin-right: auto;
 }
 
+.col-100 {
+    width: 100%;
+}
+
 .col-30 {
-    border-width: 10px;
-    border-color: red;
+    width: 30%;
+}
+
+.col-70 {
+    width: 70%;
 }
