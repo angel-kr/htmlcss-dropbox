@@ -12,6 +12,35 @@
 
 
 
+
+
+
+
+
+/**************** Utilities *************** { */
+
+
+
+
+
+
+
+
+
+
+
+
+/*************** display flex ************** { */
+
+.d-flex {
+    display: flex;
+}
+
+/* } ********************************************/
+
+
+
+
 /******* removing bullets from lists ***** { */
 
 .list-style-none {
@@ -24,11 +53,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+/* } (utilities) *****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /************** header styling *********** { */
 
-.d-flex {
-    display: flex;
-}
 
 .nav-menu {
     justify-content: space-between;
@@ -68,4 +120,8 @@ header {
 
 
 /*********** styling inside tag "main" *********/
+
+
+
+/* Building document structural support */
 
